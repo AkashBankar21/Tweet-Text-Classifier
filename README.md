@@ -1,2 +1,18 @@
 # Tweet-Text-Classifier
-We have a lot of twitter tweets which have 'real' or 'fake' data. We used TF-IDF vectorizer to vectorize the data to be used in logistic regression, knn, svc, MLPclassifier.
+Preprocessing/data preparation steps and model parameters are mentioned in report
+
+Make sure you have all the packages installed.
+
+Modules required -
+pandas
+numpy
+matplotlib
+nltk
+preprocessor
+ttp
+emoji
+pickle
+sklearn
+fasttext
+
+Execute by running 'make'
