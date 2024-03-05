@@ -52,14 +52,8 @@ Execute the provided Jupyter Notebook or Python scripts to preprocess the data, 
 
 Optionally, fine-tune hyperparameters or experiment with different algorithms based on your specific requirements.
 
-Project Structure
-data/: Contains the dataset used for training and evaluation.
-notebooks/: Contains Jupyter Notebooks demonstrating the data preprocessing, model training, and evaluation.
-src/: Contains Python scripts for data preprocessing, model training, and evaluation.
-README.md: This file providing an overview of the project.
-requirements.txt: Lists all the dependencies required to run the project.
 Contributors
-Akash Bankar (23CS60R65)
+Akash Bankar
 
 Make sure you have all the packages installed.
 
